@@ -18,13 +18,11 @@ name: "Layout"
 .layout-wrapper {
   display: flex;
   flex-direction: column;
-  border: 1px solid red;
   height: 100vh;
 
 }
 .content{
   overflow: auto;
   flex-grow: 1;
-  border: 1px solid blue;
 }
 </style>
