@@ -14,5 +14,7 @@ body{
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #f5f5f5;
+
 }
 </style>
